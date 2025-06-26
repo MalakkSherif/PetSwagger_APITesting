@@ -605,6 +605,18 @@
 						"description": "Generated from cURL: curl -X 'DELETE' \\\r\n  'https://petstore.swagger.io/v2/pet/9' \\\r\n  -H 'accept: application/json' \\\r\n  -H 'api_key: 9'"
 					},
 					"response": []
+				},
+				{
+					"name": "New Request",
+					"id": "40496756-57380389-ec46-4344-8cc6-fbfc7fb9d51e",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
 				}
 			],
 			"id": "40496756-7414c130-44f4-4a6f-bf17-e9786f0d46dc"
